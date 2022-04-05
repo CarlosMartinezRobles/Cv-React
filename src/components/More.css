@@ -1,0 +1,18 @@
+.more{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.habilities{
+   text-align: center;
+}
+.volunteer{
+    text-align: center;
+}
+.card {
+    padding-left: 20px;
+    padding-right:20px;
+    text-align: center;
+    border-radius: 12px;
+    background-color: rgba(240, 248, 255, 0.241);
+  }
