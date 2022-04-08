@@ -14,6 +14,11 @@ const More = ({ languages, habilities, volunteer }) => {
         <p>✏️ Nivel escrito: {languages.wrlevel}</p>
         <p>💭 Nivel oral: {languages.splevel}</p>
       </div>
+      <div className="card"> 
+        <p>{languages.language}</p>
+        <p>✏️ Nivel escrito: {languages.wrlevel}</p>
+        <p>💭 Nivel oral: {languages.splevel}</p>
+      </div>
         <div className="divider">
         <span></span>
         <span>Skills</span>
