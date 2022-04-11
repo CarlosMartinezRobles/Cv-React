@@ -47,11 +47,11 @@ export const CV = {
     {
       name: "Técnico Superior en Imagen. FPII",
       date: "2003 - 2005",
-      where: "CEV, Centro de Estudio del Video, Madrid."     
+      where: "CEV, Centro de Estudio del Video, Madrid.",
     },
   ],
   experience: [
-      {
+    {
       name: "Social Media, Encargado del departamento IT",
       date: "2020 - 2021",
       where: "RealtyPlus, Madrid",
@@ -78,12 +78,29 @@ export const CV = {
     },
   ],
   languages: {
-    language: "Inglés",
-    wrlevel: "B2",
-    splevel: "B2",
+    ingles: {
+      language: "Inglés",
+      wrlevel: "B2",
+      splevel: "B2",
+    },
+    portugues: {
+      language: "Portugues",
+      wrlevel: "B2",
+      splevel: "B2",
+    }
   },
-  
-  habilities: ["HTML5", "CSS3", "Git", "Angular", "React", "MongoDB", "Node", "mySQL", "Google"],
+
+  habilities: [
+    "HTML5",
+    "CSS3",
+    "Git",
+    "Angular",
+    "React",
+    "MongoDB",
+    "Node",
+    "mySQL",
+    "Google",
+  ],
   volunteer: [
     {
       name: "Alusamen",

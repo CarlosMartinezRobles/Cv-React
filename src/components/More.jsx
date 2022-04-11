@@ -10,14 +10,14 @@ const More = ({ languages, habilities, volunteer }) => {
         <span></span>
       </div>
       <div className="card"> 
-        <p>{languages.language}</p>
-        <p>✏️ Nivel escrito: {languages.wrlevel}</p>
-        <p>💭 Nivel oral: {languages.splevel}</p>
+        <p>{languages.ingles.language}</p>
+        <p>✏️ Nivel escrito: {languages.ingles.wrlevel}</p>
+        <p>💭 Nivel oral: {languages.ingles.splevel}</p>
       </div>
       <div className="card"> 
-        <p>{languages.language}</p>
-        <p>✏️ Nivel escrito: {languages.wrlevel}</p>
-        <p>💭 Nivel oral: {languages.splevel}</p>
+        <p>{languages.portugues.language}</p>
+        <p>✏️ Nivel escrito: {languages.portugues.wrlevel}</p>
+        <p>💭 Nivel oral: {languages.portugues.splevel}</p>
       </div>
         <div className="divider">
         <span></span>
