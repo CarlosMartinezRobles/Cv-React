@@ -93,6 +93,9 @@ export const CV = {
   habilities: [
     "HTML5",
     "CSS3",
+    "Javascript",
+    "PHP",
+    "Docker",    
     "Git",
     "Angular",
     "React",
